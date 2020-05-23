@@ -1,0 +1,28 @@
+I"”<h2 id="setup">Setup</h2>
+
+<p>This is where tech blogs should be primarily ML and AI stuff. Divided into primarily 3 categories:</p>
+
+<ul>
+  <li>ML basics</li>
+  <li>MOT</li>
+  <li>MRI Reconstruction</li>
+</ul>
+
+<p>Letâ€™s just check some Markdown syntax</p>
+
+<blockquote>
+  <p>This is a quote</p>
+</blockquote>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">torch</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+
+<span class="k">def</span> <span class="nf">foo</span><span class="p">():</span>
+    <span class="n">bar</span><span class="p">()</span>
+
+<span class="k">def</span> <span class="nf">bar</span><span class="p">():</span>
+    <span class="n">foo</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>Thanks for reading!</p>
+:ET
