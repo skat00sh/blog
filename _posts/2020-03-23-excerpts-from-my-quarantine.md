@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Excerpts from my quarantine
+excerpt: I was diagnosed with a comparatively rarer strain of a bacterial infection & quarantined for around 4 months from Oct-2017 to Feb-2018
 comments: true
 ---
+
 I was diagnosed with a comparatively rarer strain of a bacterial infection & quarantined for around 4 months from Oct-2017 to Feb-2018. During that time I realized that more than anything else it was a test of my mental strength than vigor. Seeing the current situation most of the world is on self-quarantine at home while many tested positive for COVID-19 are in healthcare facilities. When I was in the hospital, I was desperately searching for blogs/videos/books to give me some hope so, this time I’m making an attempt to hopefully be a part of someone’s search result looking for the same hope I once sought.
 
 Not to bore you but to give you a brief context:
