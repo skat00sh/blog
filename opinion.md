@@ -11,4 +11,5 @@ Ohh! And before we begin I'll just write a fancy quote below that I heard in som
 
 >We start out by knowing the truth just so that we can learn the lies in the process later
 
-[Excerpts From my Quarantine]({{site.url}}/2020/03/23/excerpts-from-my-quarantine/index.html)
+### Blog Entries
+#### [Excerpts From my Quarantine]({{site.url}}/2020/03/23/excerpts-from-my-quarantine/index.html)
