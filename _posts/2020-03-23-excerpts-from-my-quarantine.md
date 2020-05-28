@@ -3,14 +3,13 @@ layout: post
 title: Excerpts from my quarantine
 comments: true
 ---
-
 I was diagnosed with a comparatively rarer strain of a bacterial infection & quarantined for around 4 months from Oct-2017 to Feb-2018. During that time I realized that more than anything else it was a test of my mental strength than vigor. Seeing the current situation most of the world is on self-quarantine at home while many tested positive for COVID-19 are in healthcare facilities. When I was in the hospital, I was desperately searching for blogs/videos/books to give me some hope so, this time I’m making an attempt to hopefully be a part of someone’s search result looking for the same hope I once sought.
 
 Not to bore you but to give you a brief context:
 
 16 October 2017, somewhere around 16:30 CET, I’ve issues in just maintaining a straight posture on a chair. Have you ever seen those tall buildings falling onto itself, well I felt kind of like that in my spine. I left work, went home and tried to sleep. It got worse with every passing minute. I went to the hospital, instantly admitted for the night to run some tests and then sent home for 2–3 days. My situation really didn’t improve and I was hoping tests would reveal the issue. To my dismay, they didn’t! I was admitted again, this time for a week and then was again told to go home for a weekend and return on Monday. Well, this time when I returned, little did I know that I would be moving in with them(CHU Poitiers, France) for the foreseeable future. Here I was, in a country that was still new to me. I had severely limited (read non-existent) language skills, a few friends for support but just for the initial few days (After the first few weeks they couldn’t even if they wanted to). No possibility of a family member to be around for boosting morale. Worst of all the doctors had the same statements which my friends have been telling me since ages “There’s something wrong with you but we don’t know what!”
 
-![A doodle I made on the letter for my doctors once I was released as a gesture of gratitude]({{site.url}}/blog/public/apple-touch-icon-precomposed.png)
+![A doodle I made on the letter for my doctors once I was released as a gesture of gratitude]({{site.url}}/_site/public/post_assets/quarantine.jpeg)
 
 
 So, now that you know some background, I’ll try to jot down a few of my experiences from that time
