@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Blog {Tech}
+title: Shitty ML 
 ---
 
 ## Setup
 
-This is where tech blogs should be primarily ML and AI stuff. Divided into primarily 3 categories:
-
-* ML basics
-* MOT
-* MRI Reconstruction
+I was being conceptualizing and thinking how my ideal ML blog would look like. 
+Didn't work! (Duhhh!!)
+So, here I am, planning to just write what I understand and the way I do
 
 
 Let's just check some Markdown syntax
